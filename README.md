@@ -21,4 +21,5 @@ Lastly, there is a huge chance of missing out on a great opportunity by the time
 
 Computers being faster than humans, Screenr aptly accompanies a trader by itself screening a huge watchlist on a relatively shorter timeframe.
 Screenr has algorithms to detect major candlesticks and chart patterns over live market feed.
-Screenr is coupled with a user-alert system wherein whenever a desired signal i
+Screenr also calculates the major Technical Indicator values and tells whether the indicator signals a Bullish Trend or a Bearish Trend.
+Screenr is coupled with a user-alert system wherein whenever a desired signal is encountered, it alerts to user via an email.
